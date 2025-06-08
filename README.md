@@ -69,7 +69,7 @@ Highlights:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/Library-Management-System.git
+   git clone https://github.com/Mugil13/Library-Management-System.git
 
 2. Open the project in NetBeans IDE.
 
